@@ -4,6 +4,7 @@ This program scans a graph and identifies all the different components and by ho
 To run on an exemple_1.pts :  **./main.py exemple_1.pts**
 
 .pts file format : 
+
 [distance]
 
 [x-coord],[y-coord]
